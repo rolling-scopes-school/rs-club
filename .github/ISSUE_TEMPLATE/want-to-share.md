@@ -10,3 +10,6 @@ Topic title in 1-3 words
 
 **Description**
  A clear and concise description of what will be discussed at the presentation
+
+**Profile**
+Link to your github or wearecommunity account
